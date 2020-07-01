@@ -3,20 +3,20 @@
 
 
 ext{
-  bintrayRepo = 'TestLibrary' // Repository name in bintray dashboard
-  bintrayName = 'com.nunomelo.testlibrary' // package name of the bintray repo
+  bintrayRepo = 'MathLibrary' // Repository name in bintray dashboard
+  bintrayName = 'com.nunomelo.MathLibrary' // package name of the bintray repo
 
-  publishedGroupId = 'com.nunomelo.testlibrary'
+  publishedGroupId = 'com.nunomelo.MathLibrary'
   // this is the ID we want to see in implementation line
-  libraryName = 'testlibrary'     // this is the module name of library
-  artifact = 'testlibrary'        // this is the artifact we want to see in implementation line
+  libraryName = 'mathlibrary'     // this is the module name of library
+  artifact = 'mathlibrary'        // this is the artifact we want to see in implementation line
 
-  libraryDescription = 'Test project library description' // description of library
+  libraryDescription = 'A library that make some math operacions' // description of library
 
-  siteUrl = 'https://github.com/nunomelo98/TestLibrary'    // git repo url
-  gitUrl = 'https://github.com/nunomelo98/TestLibrary.git' // git repo vcs url
+  siteUrl = 'https://github.com/nunomelo98/MathLibrary'    // git repo url
+  gitUrl = 'https://github.com/nunomelo98/MathLibrary.git' // git repo vcs url
 
-  libraryVersion = '1.2'      // library version
+  libraryVersion = '1.0'      // library version
 
   developerId = 'nunomelo98'                // This is your bintray username
   developerName = 'Nuno Melo'              // Developer's name
